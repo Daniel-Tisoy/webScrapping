@@ -1,0 +1,19 @@
+news_sites:
+  eltiempo:
+    url: https://www.eltiempo.com/
+    queries:
+      homepage_article_links: '.page-link'
+      article_body: '.contenido'
+      article_title: '.titulo'
+  eluniversal:
+    url: http://www.eluniversal.com.co/
+    queries:
+      homepage_article_links: '.priority-content'
+      article_body: '.paragraph'
+      article_title: '.priority-content'
+  elpais:
+    url: http://elpais.com
+    queries:
+      homepage_article_links: '.headline a'
+      article_body: '.article_body'
+      article_title: '.a_t'
