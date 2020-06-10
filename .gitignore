@@ -1,0 +1,8 @@
+clean_elpais_2020_04_10_articles.csv
+clean_eluniversal_2020_04_10_articles.csv
+elpais_2020_04_10_articles.csv
+eluniversal_2020_04_10_articles.csv
+
+extract/__pycache__
+load/__pycache__
+transform/__pycache__
