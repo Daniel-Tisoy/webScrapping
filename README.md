@@ -1,7 +1,6 @@
 # web_scrapping
-Web_scrapping de sitios de noticias, ETL 
+extraccion de datos con python 
 
-Proyecto realizado en el curso de Ingenieria de datos con python en el que se aplica el ETL dando como resultado una base de datos
-limpia y lista para ser manipulada
+el proyecto extrae y organiza los datos de un sitio web de noticas
+aplicando los pasos ETL 
 
-PIPLINE.PY permite ejecutar todo el proyecto 
